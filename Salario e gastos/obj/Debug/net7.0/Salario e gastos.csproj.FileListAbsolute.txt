@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\Salario e gastos\bin\Debug\net7.0\Salario e gastos.exe
+C:\Users\54106581833\Desktop\Salario e gastos\bin\Debug\net7.0\Salario e gastos.deps.json
+C:\Users\54106581833\Desktop\Salario e gastos\bin\Debug\net7.0\Salario e gastos.runtimeconfig.json
+C:\Users\54106581833\Desktop\Salario e gastos\bin\Debug\net7.0\Salario e gastos.dll
+C:\Users\54106581833\Desktop\Salario e gastos\bin\Debug\net7.0\Salario e gastos.pdb
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.dll
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\refint\Salario e gastos.dll
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.pdb
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\Salario e gastos.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\Salario e gastos\obj\Debug\net7.0\ref\Salario e gastos.dll

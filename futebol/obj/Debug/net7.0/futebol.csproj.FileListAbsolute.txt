@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\futebol\bin\Debug\net7.0\futebol.exe
+C:\Users\54106581833\Desktop\futebol\bin\Debug\net7.0\futebol.deps.json
+C:\Users\54106581833\Desktop\futebol\bin\Debug\net7.0\futebol.runtimeconfig.json
+C:\Users\54106581833\Desktop\futebol\bin\Debug\net7.0\futebol.dll
+C:\Users\54106581833\Desktop\futebol\bin\Debug\net7.0\futebol.pdb
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.dll
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\refint\futebol.dll
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.pdb
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\futebol.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\futebol\obj\Debug\net7.0\ref\futebol.dll
